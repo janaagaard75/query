@@ -47,16 +47,16 @@
   ],
   "dependencies": {
     "@tanstack/query-devtools": "workspace:*",
-    "esm-env": "^1.2.1"
+    "esm-env": "^1.2.2"
   },
   "devDependencies": {
-    "@sveltejs/package": "^2.4.0",
+    "@sveltejs/package": "^2.5.7",
     "@sveltejs/vite-plugin-svelte": "^5.1.1",
     "@tanstack/svelte-query": "workspace:*",
-    "@typescript-eslint/parser": "^8.48.0",
-    "eslint-plugin-svelte": "^3.11.0",
-    "svelte": "^5.39.3",
-    "svelte-check": "^4.4.5",
+    "@typescript-eslint/parser": "^8.59.0",
+    "eslint-plugin-svelte": "^3.17.0",
+    "svelte": "^5.55.4",
+    "svelte-check": "^4.4.6",
     "typescript": "5.9.3"
   },
   "peerDependencies": {
